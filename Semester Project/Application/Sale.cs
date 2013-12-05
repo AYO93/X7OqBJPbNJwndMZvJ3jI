@@ -17,7 +17,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace PoS_new
+namespace PointOfSale
 {
     public partial class Sale : Form
     {

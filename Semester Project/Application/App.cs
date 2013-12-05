@@ -13,7 +13,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
 
-namespace PoS_new
+namespace PointOfSale
 {
     static class App
     {

@@ -14,7 +14,7 @@ using System.Linq;
 using System.Text;
 using System.IO;
 
-namespace PoS_new
+namespace PointOfSale
 {
     class CSV
     {

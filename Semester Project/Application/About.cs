@@ -6,7 +6,7 @@ using System.Linq;
 using System.Reflection;
 using System.Windows.Forms;
 
-namespace PoS_new
+namespace PointOfSale
 {
     partial class About : Form
     {

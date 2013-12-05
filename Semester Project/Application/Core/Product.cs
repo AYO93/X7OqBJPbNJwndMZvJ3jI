@@ -13,7 +13,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace PoS_new
+namespace PointOfSale
 {
     public class Product
     {

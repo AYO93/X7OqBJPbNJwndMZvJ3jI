@@ -1,4 +1,13 @@
-﻿using System;
+﻿/**
+ * Regent University College of Science and Technology
+ * ---------------------------------------------------
+ * Course: Application Programming with C#
+ * Student: Tobias Manuel Poganiuch
+ * ---------------------------------------------------
+ * Date: 2013-12-05
+ * Version: 1.0
+ */
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -7,7 +16,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace PoS_new
+namespace PointOfSale
 {
     public partial class Inventory : Form
     {
@@ -52,6 +61,13 @@ namespace PoS_new
             stock.addProduct(row);
             // Update DGV
             dgvInventory.DataSource = stock.getProducts();
+
+            txtAddProductName.Clear();
+            txtAddProductPrice.Clear();
+            txtAddProductStock.Clear();
+            txtAddProductDesc.Clear();
+
+            this.tcInventory.SelectTab("tpInventory");
         }
     }
 }

@@ -2,11 +2,11 @@ C:\Daten\RUCST_Windows\05_ProgrammingWithCSharp\GitHub\X7OqBJPbNJwndMZvJ3jI\Seme
 C:\Daten\RUCST_Windows\05_ProgrammingWithCSharp\GitHub\X7OqBJPbNJwndMZvJ3jI\Semester Project\Application\obj\x86\Debug\PoS_new.pdb
 C:\Daten\RUCST_Windows\05_ProgrammingWithCSharp\GitHub\X7OqBJPbNJwndMZvJ3jI\Semester Project\Application\bin\Debug\PoS_new.exe
 C:\Daten\RUCST_Windows\05_ProgrammingWithCSharp\GitHub\X7OqBJPbNJwndMZvJ3jI\Semester Project\Application\bin\Debug\PoS_new.pdb
-C:\Daten\RUCST_Windows\05_ProgrammingWithCSharp\GitHub\X7OqBJPbNJwndMZvJ3jI\Semester Project\Application\obj\x86\Debug\PoS_new.Inventory.resources
-C:\Daten\RUCST_Windows\05_ProgrammingWithCSharp\GitHub\X7OqBJPbNJwndMZvJ3jI\Semester Project\Application\obj\x86\Debug\PoS_new.Properties.Resources.resources
-C:\Daten\RUCST_Windows\05_ProgrammingWithCSharp\GitHub\X7OqBJPbNJwndMZvJ3jI\Semester Project\Application\obj\x86\Debug\PoS_new.Sale.resources
-C:\Daten\RUCST_Windows\05_ProgrammingWithCSharp\GitHub\X7OqBJPbNJwndMZvJ3jI\Semester Project\Application\obj\x86\Debug\PoS_new.Search.resources
-C:\Daten\RUCST_Windows\05_ProgrammingWithCSharp\GitHub\X7OqBJPbNJwndMZvJ3jI\Semester Project\Application\obj\x86\Debug\PoS_new.Window.resources
 C:\Daten\RUCST_Windows\05_ProgrammingWithCSharp\GitHub\X7OqBJPbNJwndMZvJ3jI\Semester Project\Application\obj\x86\Debug\PointOfSale.csproj.GenerateResource.Cache
 C:\Daten\RUCST_Windows\05_ProgrammingWithCSharp\GitHub\X7OqBJPbNJwndMZvJ3jI\Semester Project\Application\bin\Debug\Core\Products.csv
-C:\Daten\RUCST_Windows\05_ProgrammingWithCSharp\GitHub\X7OqBJPbNJwndMZvJ3jI\Semester Project\Application\obj\x86\Debug\PoS_new.About.resources
+C:\Daten\RUCST_Windows\05_ProgrammingWithCSharp\GitHub\X7OqBJPbNJwndMZvJ3jI\Semester Project\Application\obj\x86\Debug\PointOfSale.About.resources
+C:\Daten\RUCST_Windows\05_ProgrammingWithCSharp\GitHub\X7OqBJPbNJwndMZvJ3jI\Semester Project\Application\obj\x86\Debug\PointOfSale.Inventory.resources
+C:\Daten\RUCST_Windows\05_ProgrammingWithCSharp\GitHub\X7OqBJPbNJwndMZvJ3jI\Semester Project\Application\obj\x86\Debug\PointOfSale.Properties.Resources.resources
+C:\Daten\RUCST_Windows\05_ProgrammingWithCSharp\GitHub\X7OqBJPbNJwndMZvJ3jI\Semester Project\Application\obj\x86\Debug\PointOfSale.Sale.resources
+C:\Daten\RUCST_Windows\05_ProgrammingWithCSharp\GitHub\X7OqBJPbNJwndMZvJ3jI\Semester Project\Application\obj\x86\Debug\PointOfSale.Search.resources
+C:\Daten\RUCST_Windows\05_ProgrammingWithCSharp\GitHub\X7OqBJPbNJwndMZvJ3jI\Semester Project\Application\obj\x86\Debug\PointOfSale.Window.resources

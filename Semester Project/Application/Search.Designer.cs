@@ -1,4 +1,13 @@
-﻿namespace PoS_new
+﻿/**
+ * Regent University College of Science and Technology
+ * ---------------------------------------------------
+ * Course: Application Programming with C#
+ * Student: Tobias Manuel Poganiuch
+ * ---------------------------------------------------
+ * Date: 2013-12-05
+ * Version: 1.0
+ */
+namespace PointOfSale
 {
     partial class Search
     {

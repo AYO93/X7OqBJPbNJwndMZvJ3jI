@@ -7,7 +7,7 @@
  * Date: 2013-12-04
  * Version: 1.0
  */
-namespace PoS_new
+namespace PointOfSale
 {
     partial class Sale
     {
@@ -58,21 +58,21 @@ namespace PoS_new
             this.lblSaleProduct.AutoSize = true;
             this.lblSaleProduct.Location = new System.Drawing.Point(12, 16);
             this.lblSaleProduct.Name = "lblSaleProduct";
-            this.lblSaleProduct.Size = new System.Drawing.Size(44, 13);
+            this.lblSaleProduct.Size = new System.Drawing.Size(81, 13);
             this.lblSaleProduct.TabIndex = 103;
-            this.lblSaleProduct.Text = "Product";
+            this.lblSaleProduct.Text = "Search Product";
             // 
             // txtSaleProduct
             // 
-            this.txtSaleProduct.Location = new System.Drawing.Point(64, 13);
+            this.txtSaleProduct.Location = new System.Drawing.Point(99, 13);
             this.txtSaleProduct.Name = "txtSaleProduct";
-            this.txtSaleProduct.Size = new System.Drawing.Size(502, 20);
+            this.txtSaleProduct.Size = new System.Drawing.Size(467, 20);
             this.txtSaleProduct.TabIndex = 1;
             this.txtSaleProduct.TextChanged += new System.EventHandler(this.txtSaleProduct_TextChanged);
             // 
             // txtSaleQty
             // 
-            this.txtSaleQty.Location = new System.Drawing.Point(64, 150);
+            this.txtSaleQty.Location = new System.Drawing.Point(99, 150);
             this.txtSaleQty.Name = "txtSaleQty";
             this.txtSaleQty.Size = new System.Drawing.Size(61, 20);
             this.txtSaleQty.TabIndex = 3;
@@ -82,7 +82,7 @@ namespace PoS_new
             // lblSaleQty
             // 
             this.lblSaleQty.AutoSize = true;
-            this.lblSaleQty.Location = new System.Drawing.Point(12, 153);
+            this.lblSaleQty.Location = new System.Drawing.Point(47, 153);
             this.lblSaleQty.Name = "lblSaleQty";
             this.lblSaleQty.Size = new System.Drawing.Size(46, 13);
             this.lblSaleQty.TabIndex = 104;
@@ -91,9 +91,9 @@ namespace PoS_new
             // lbSaleProduct
             // 
             this.lbSaleProduct.FormattingEnabled = true;
-            this.lbSaleProduct.Location = new System.Drawing.Point(64, 39);
+            this.lbSaleProduct.Location = new System.Drawing.Point(99, 39);
             this.lbSaleProduct.Name = "lbSaleProduct";
-            this.lbSaleProduct.Size = new System.Drawing.Size(502, 95);
+            this.lbSaleProduct.Size = new System.Drawing.Size(467, 95);
             this.lbSaleProduct.TabIndex = 2;
             // 
             // dgvSale
@@ -110,9 +110,9 @@ namespace PoS_new
             // 
             // btnSaleAdd
             // 
-            this.btnSaleAdd.Location = new System.Drawing.Point(131, 140);
+            this.btnSaleAdd.Location = new System.Drawing.Point(166, 140);
             this.btnSaleAdd.Name = "btnSaleAdd";
-            this.btnSaleAdd.Size = new System.Drawing.Size(435, 38);
+            this.btnSaleAdd.Size = new System.Drawing.Size(400, 38);
             this.btnSaleAdd.TabIndex = 4;
             this.btnSaleAdd.Text = "Add";
             this.btnSaleAdd.UseVisualStyleBackColor = true;
