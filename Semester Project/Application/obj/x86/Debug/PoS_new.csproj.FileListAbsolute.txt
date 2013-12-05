@@ -1,0 +1,14 @@
+C:\Daten\RUCST_Windows\05_ProgrammingWithCSharp\Semester Project\PoS_new\PoS_new\bin\Debug\PoS_new.exe
+C:\Daten\RUCST_Windows\05_ProgrammingWithCSharp\Semester Project\PoS_new\PoS_new\bin\Debug\PoS_new.pdb
+C:\Daten\RUCST_Windows\05_ProgrammingWithCSharp\Semester Project\PoS_new\PoS_new\obj\x86\Debug\PoS_new.Login.resources
+C:\Daten\RUCST_Windows\05_ProgrammingWithCSharp\Semester Project\PoS_new\PoS_new\obj\x86\Debug\PoS_new.Properties.Resources.resources
+C:\Daten\RUCST_Windows\05_ProgrammingWithCSharp\Semester Project\PoS_new\PoS_new\obj\x86\Debug\PoS_new.csproj.GenerateResource.Cache
+C:\Daten\RUCST_Windows\05_ProgrammingWithCSharp\Semester Project\PoS_new\PoS_new\obj\x86\Debug\PoS_new.exe
+C:\Daten\RUCST_Windows\05_ProgrammingWithCSharp\Semester Project\PoS_new\PoS_new\obj\x86\Debug\PoS_new.pdb
+C:\Daten\RUCST_Windows\05_ProgrammingWithCSharp\Semester Project\PoS_new\PoS_new\obj\x86\Debug\PoS_new.Search.resources
+C:\Daten\RUCST_Windows\05_ProgrammingWithCSharp\Semester Project\PoS_new\PoS_new\obj\x86\Debug\PoS_new.csprojResolveAssemblyReference.cache
+C:\Daten\RUCST_Windows\05_ProgrammingWithCSharp\Semester Project\PoS_new\PoS_new\obj\x86\Debug\PoS_new.Sale.resources
+C:\Daten\RUCST_Windows\05_ProgrammingWithCSharp\Semester Project\PoS_new\PoS_new\bin\Debug\products.csv
+C:\Daten\RUCST_Windows\05_ProgrammingWithCSharp\Semester Project\PoS_new\PoS_new\obj\x86\Debug\PoS_new.Inventory.resources
+C:\Daten\RUCST_Windows\05_ProgrammingWithCSharp\GitHub\X7OqBJPbNJwndMZvJ3jI\Semester Project\Application\PoS_new\obj\x86\Debug\PoS_new.exe
+C:\Daten\RUCST_Windows\05_ProgrammingWithCSharp\GitHub\X7OqBJPbNJwndMZvJ3jI\Semester Project\Application\PoS_new\obj\x86\Debug\PoS_new.pdb

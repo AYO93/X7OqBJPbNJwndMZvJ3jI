@@ -1,0 +1,11 @@
+C:\Daten\RUCST_Windows\05_ProgrammingWithCSharp\GitHub\X7OqBJPbNJwndMZvJ3jI\Semester Project\Application\PoS_new\obj\x86\Release\PoS_new.Inventory.resources
+C:\Daten\RUCST_Windows\05_ProgrammingWithCSharp\GitHub\X7OqBJPbNJwndMZvJ3jI\Semester Project\Application\PoS_new\obj\x86\Release\PoS_new.Login.resources
+C:\Daten\RUCST_Windows\05_ProgrammingWithCSharp\GitHub\X7OqBJPbNJwndMZvJ3jI\Semester Project\Application\PoS_new\obj\x86\Release\PoS_new.Properties.Resources.resources
+C:\Daten\RUCST_Windows\05_ProgrammingWithCSharp\GitHub\X7OqBJPbNJwndMZvJ3jI\Semester Project\Application\PoS_new\obj\x86\Release\PoS_new.Sale.resources
+C:\Daten\RUCST_Windows\05_ProgrammingWithCSharp\GitHub\X7OqBJPbNJwndMZvJ3jI\Semester Project\Application\PoS_new\obj\x86\Release\PoS_new.Search.resources
+C:\Daten\RUCST_Windows\05_ProgrammingWithCSharp\GitHub\X7OqBJPbNJwndMZvJ3jI\Semester Project\Application\PoS_new\obj\x86\Release\PointOfSale.csproj.GenerateResource.Cache
+C:\Daten\RUCST_Windows\05_ProgrammingWithCSharp\GitHub\X7OqBJPbNJwndMZvJ3jI\Semester Project\Application\PoS_new\bin\Release\products.csv
+C:\Daten\RUCST_Windows\05_ProgrammingWithCSharp\GitHub\X7OqBJPbNJwndMZvJ3jI\Semester Project\Application\PoS_new\bin\Release\PoS_new.exe
+C:\Daten\RUCST_Windows\05_ProgrammingWithCSharp\GitHub\X7OqBJPbNJwndMZvJ3jI\Semester Project\Application\PoS_new\bin\Release\PoS_new.pdb
+C:\Daten\RUCST_Windows\05_ProgrammingWithCSharp\GitHub\X7OqBJPbNJwndMZvJ3jI\Semester Project\Application\PoS_new\obj\x86\Release\PoS_new.exe
+C:\Daten\RUCST_Windows\05_ProgrammingWithCSharp\GitHub\X7OqBJPbNJwndMZvJ3jI\Semester Project\Application\PoS_new\obj\x86\Release\PoS_new.pdb
